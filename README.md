@@ -1,6 +1,4 @@
 # travel-agency
-Project developed for the Data Science Bootcamp by Cogrammar and HyperionDev which utilises Python, Numpy and Pandas for data manipulation.
-
 This program simulates a Travel agency digital service which allows users who want to go on holiday to look for a round trip flight that suits their needs.
 It takes the data from an external .csv file (Flights_info.csv) and manipulate them using Pandas library in order to retrieve the information requested from the users.
 Users are asked to compose a round trip selecting their preferred flights among the available ones corresponding to their selected departure city, arrival city and departure date.
